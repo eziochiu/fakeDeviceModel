@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>faceIdiom</key>
+		<integer>0</integer>
+		<key>localizedModel</key>
+		<string>iPhone</string>
+		<key>model</key>
+		<string>D22AP</string>
+		<key>name</key>
+		<string>iPhone X</string>
+		<key>number</key>
+		<string>A1865</string>
+		<key>type</key>
+		<string>iPhone10,3</string>
+	</dict>
+	<dict>
+		<key>faceIdiom</key>
+		<integer>0</integer>
+		<key>localizedModel</key>
+		<string>iPhone</string>
+		<key>model</key>
+		<string>D21AP</string>
+		<key>name</key>
+		<string>iPhone 8 Plus</string>
+		<key>number</key>
+		<string>A1864</string>
+		<key>type</key>
+		<string>iPhone10,2</string>
+	</dict>
+	<dict>
+		<key>faceIdiom</key>
+		<integer>0</integer>
+		<key>localizedModel</key>
+		<string>iPhone</string>
+		<key>model</key>
+		<string>D20AP</string>
+		<key>name</key>
+		<string>iPhone 8</string>
+		<key>number</key>
+		<string>A1863</string>
+		<key>type</key>
+		<string>iPhone10,1</string>
+	</dict>
+	<dict>
+		<key>faceIdiom</key>
+		<integer>0</integer>
+		<key>localizedModel</key>
+		<string>iPhone</string>
+		<key>model</key>
+		<string>D11AP</string>
+		<key>name</key>
+		<string>iPhone 7 Plus</string>
+		<key>number</key>
+		<string>A1661</string>
+		<key>type</key>
+		<string>iPhone9,2</string>
+	</dict>
+	<dict>
+		<key>faceIdiom</key>
+		<integer>0</integer>
+		<key>localizedModel</key>
+		<string>iPhone</string>
+		<key>model</key>
+		<string>D10AP</string>
+		<key>name</key>
+		<string>iPhone 7</string>
+		<key>number</key>
+		<string>A1660</string>
+		<key>type</key>
+		<string>iPhone9,1</string>
+	</dict>
+	<dict>
+		<key>faceIdiom</key>
+		<integer>0</integer>
+		<key>localizedModel</key>
+		<string>iPhone</string>
+		<key>model</key>
+		<string>N69AP</string>
+		<key>name</key>
+		<string>iPhone SE</string>
+		<key>number</key>
+		<string>A1662</string>
+		<key>type</key>
+		<string>iPhone8,4</string>
+	</dict>
+	<dict>
+		<key>faceIdiom</key>
+		<integer>1</integer>
+		<key>localizedModel</key>
+		<string>iPad</string>
+		<key>model</key>
+		<string>J82AP</string>
+		<key>name</key>
+		<string>iPad Air 2</string>
+		<key>number</key>
+		<string>A1567</string>
+		<key>type</key>
+		<string>iPad5,4</string>
+	</dict>
+	<dict>
+		<key>faceIdiom</key>
+		<integer>1</integer>
+		<key>localizedModel</key>
+		<string>iPad</string>
+		<key>model</key>
+		<string>J211AP</string>
+		<key>name</key>
+		<string>iPad mini 5</string>
+		<key>number</key>
+		<string>A2124</string>
+		<key>type</key>
+		<string>iPad11,2</string>
+	</dict>
+</array>
+</plist>

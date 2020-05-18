@@ -1,0 +1,9 @@
+Package: ezio.fakedevicemodel
+Name: fakeDeviceModel
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 虚拟机型插件
+Maintainer: Ezio Chiu
+Author: Ezio Chiu
+Section: Tweaks
