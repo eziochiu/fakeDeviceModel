@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>启用虚拟机型</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>ezio.fakedevicemodelprefs</string>
+			<key>key</key>
+			<string>GlobalEnabled</string>
+			<key>label</key>
+			<string>启用</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>单独应用</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string></string>
+			<key>detail</key>
+			<string>ECDeviceListController</string>
+			<key>defaults</key>
+			<string>ezio.fakedevicemodelprefs</string>
+			<key>label</key>
+			<string>设备列表</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>FakeDeviceModelPrefs</string>
+</dict>
+</plist>

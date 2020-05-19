@@ -37,16 +37,6 @@
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     [tableView deselectRowAtIndexPath:indexPath animated:YES];
-    id list = [_preferences objectForKey:@"fs"];
-    NSMutableDictionary *newfs = [NSMutableDictionary new];
-    if (list && [list isKindOfClass:[NSDictionary class]]) {
-        NSMutableDictionary *fs = [list mutableCopy];
-    
-        for (NSString *key in fs.allKeys) {
-            [newfs setObject:_allDeviceList[indexPath.row] forKey:key];
-        }
-   }
-   [_preferences setObject:newfs forKey:@"fs"];
     ECAppListController *controller = [[ECAppListController alloc] initForContentSize:self.view.bounds.size];
     controller.modelDict = _allDeviceList[indexPath.row];
     [self.navigationController pushViewController:controller animated:YES];
